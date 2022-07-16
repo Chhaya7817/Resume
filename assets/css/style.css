@@ -304,7 +304,7 @@ section {
   padding: 0;
 }
 .about .content ul li {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   display: flex;
   align-items: center;
 }
@@ -312,7 +312,7 @@ section {
   margin-right: 10px;
 }
 .about .content ul i {
-  font-size: 16px;
+  font-size: 24px;
   margin-right: 5px;
   color: #149ddd;
   line-height: 0;
@@ -365,6 +365,7 @@ section {
 .facts .count-box a:hover {
   color: #1f5297;
 }
+
 
 /*--------------------------------------------------------------
 # Akills
